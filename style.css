@@ -1,0 +1,9 @@
+section{
+    display: flex;
+}
+.rightdiv{
+    margin-left: 100px;
+}
+section{
+    margin: 50px;
+}
